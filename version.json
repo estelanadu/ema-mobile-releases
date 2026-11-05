@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "Bug fixes, faster performance, and new dashboard features.",
+  "apk": {
+    "arm64": "https://github.com/estelanadu/ema-mobile-releases/releases/download/v1.0.0/app-arm64-v8a-release.apk",
+    "armeabi": "https://github.com/estelanadu/ema-mobile-releases/releases/download/v1.0.0/app-armeabi-v7a-release.apk"
+  },
+  "apk_url": "https://github.com/estelanadu/ema-mobile-releases/releases/download/v1.0.0/app-arm64-v8a-release.apk"
+}
