@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bug fixes, faster performance, and new dashboard features.",
   "apk": {
     "arm64": "https://github.com/estelanadu/ema-mobile-releases/releases/download/v1.0.0/app-arm64-v8a-release.apk",
