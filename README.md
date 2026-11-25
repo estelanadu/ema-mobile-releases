@@ -10,8 +10,8 @@ Official APK release repository and distribution hub for the **EMA (Elanadu Mark
 
 | Release Type | Version | Date |
 |---|---|---|
-| Global Release | 1.0.0+1 | Nov 05, 2026 |
+| Global Release | 1.0.2+3 | Nov 23, 2026 |
 
 ## Latest Version
 
-**Version:** 1.0.0+1
+**Version:** 1.0.2+3
